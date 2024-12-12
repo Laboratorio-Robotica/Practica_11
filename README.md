@@ -148,8 +148,14 @@ void loop() {
 
 ### Francisco Javier Godinez Lopez:
 
+La práctica desempeñó un papel fundamental en la comprensión y aplicación de herramientas avanzadas, como el ESP32, para la comunicación serial con el robot Epson. Este proceso no solo permitió ejecutar tareas más complejas, sino que también abrió las puertas a explorar soluciones de automatización más sofisticadas, incluyendo la integración con aplicaciones remotas. La experiencia adquirida sirvió para superar desafíos técnicos, como la configuración del puerto serial, y demostró la versatilidad del ESP32 al trabajar en conjunto con sistemas robóticos. Además, proporcionó un conocimiento práctico que puede ser aprovechado en proyectos futuros, ampliando las capacidades para implementar tecnologías innovadoras en diversas áreas.
+
 ### Pablo Axel Silva Fuentes: 
 
+La experiencia obtenida en esta práctica no solo permitió avanzar en el proyecto final, sino que también fomentó un mejor entendimiento del trabajo con protocolos de comunicación serial. La implementación de herramientas modernas como el ESP32, en conjunto con el robot Epson, demostró ser una combinación versátil y efectiva para ampliar las aplicaciones de la robótica, destacando el potencial de integrar estas tecnologías en proyectos más ambiciosos.
+
 ### Eduardo David Salas Ayala: 
+
+Esta práctica resultó ser de gran valor, ya que los conocimientos adquiridos se aprovecharon para dar continuidad al proyecto final. La utilización del ESP32 para la comunicación serial demostró ser una excelente oportunidad para trabajar con nuevas herramientas e integrarlas con el robot Epson. Esto permitió realizar tareas más complejas y desarrollar automatizaciones, incluyendo la posibilidad de vinculación con aplicaciones de manera remota, ampliando significativamente el rango de posibilidades. Gracias a esta práctica, se aprendió y comprendió el uso de la función Serial2, lo que permitió aprovechar al máximo su potencial y reforzar el aprendizaje en este ámbito.
 
 
