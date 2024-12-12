@@ -4,7 +4,7 @@
 - Francisco Javier Godinez Lopez
 - Pablo Axel Silva Fuentes
 - Eduardo David Salas Ayala
-- 
+  
 ## Introducción:  
 
 El objetivo principal de esta práctica es integrar un sensor al robot Epson, empleando un ESP32 para la comunicación serial. El ESP32 será responsable de enviar datos al robot, y según los datos recibidos, el robot deberá realizar diversas acciones, como desplazarse a un punto específico, abrir o cerrar las pinzas, o girar hacia un lado. Esta actividad tiene como finalidad comprender y explorar la aplicación práctica de estos dispositivos en sistemas de control automatizado.
